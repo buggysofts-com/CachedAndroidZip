@@ -1,0 +1,3 @@
+include ':AndroidZip'
+include ':app'
+rootProject.name = "AndroidZipExample"
